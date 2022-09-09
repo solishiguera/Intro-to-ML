@@ -33,4 +33,4 @@ Dataset obtenido de Kaggle
 |13|40.400208|[40.40020802961401]|
 |14|22.736446|[22.73644635309264]|
 
-Se debe revisar archivo **Evidencia2.py**
+Se debe revisar archivo **evidencia2.py**
